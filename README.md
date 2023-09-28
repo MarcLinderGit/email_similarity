@@ -1,4 +1,4 @@
-# Email similarity
+# Email Similarity
 In this project, I will be utilizing scikit-learn's Naive Bayes implementation to work with various datasets for text classification. My primary objective is to assess the classifier's accuracy and determine the difficulty level of distinguishing between different categories of text documents. Specifically, I will explore how challenging it is to differentiate between emails related to topics like hockey and soccer or emails about hockey and technology.
 
 **Key Project Objectives:**
